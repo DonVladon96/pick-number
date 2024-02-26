@@ -3,10 +3,10 @@ html {
 }
 
 body {
-    background: rgb(196, 187, 221);
-    background: linear-gradient(90deg, rgba(196, 187, 221, 1) 0%, rgba(189, 177, 223, 1) 35%, rgba(79, 168, 231, 1) 100%);
+    background-image: url("../new.jpg");
     width: 80%;
     margin: 0 auto;
+    color: white;
 }
 
 h1 {
